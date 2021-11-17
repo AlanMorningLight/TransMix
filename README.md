@@ -9,6 +9,6 @@ Code will be released soon.
 </p>
 
 <p align="center">
-  <img src="./pic2.png" width="300">
+  <img src="./pic2.png" width="500">
 </p>
 
