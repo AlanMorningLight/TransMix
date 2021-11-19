@@ -2,7 +2,7 @@
 
 This repository includes the official project for the paper: [*TransMix: Attend to Mix for Vision Transformers*](https://arxiv.org)  
 
-Code will be released soon.
+Code and pretrained models will be released soon.
 
 <p align="center">
   <img src="./pic1.png" width="500">
